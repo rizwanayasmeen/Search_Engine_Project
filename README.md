@@ -35,3 +35,5 @@ Pavani Kasipeta played a vital role in a collaborative project aimed at developi
 <li>The project uses data from opensubtitles.org for subtitle content.</li>
 <li>Acknowledgment to the Sentence Transformers library's creators and contributors for their valuable semantic search tool.</li>
 </ul>
+<h3>License:</h3>
+This project is licensed under the MIT License.
